@@ -21,7 +21,7 @@ Data Analyst
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tobiasuruali/tobiasuruali/blob/main/icons/microsoft-power-automate.svg" width="36" height="36" alt="PowerAutomate" /></a>
 <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tobiasuruali/tobiasuruali/blob/226c0d46fb43624f1295a42a4c4c528e9d1a361a/icons/microsoft-power-apps.svg" width="36" height="36" alt="PowerApps" /></a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tobiasuruali/tobiasuruali/blob/226c0d46fb43624f1295a42a4c4c528e9d1a361a/icons/Power_BI_Logo" width="36" height="36" alt="PowerBI" /></a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tobiasuruali/tobiasuruali/blob/f98d23c4957c3dd1eb76fbfb730c160df5a4d680/icons/Power_BI_Logo.svg" width="36" height="36" alt="PowerBI" /></a>
 </p>
 
 
