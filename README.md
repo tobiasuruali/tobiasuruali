@@ -16,6 +16,8 @@ Data Analyst
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
+<a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tobiasuruali/tobiasuruali/blob/main/icons/microsoft-power-automate.svg" width="36" height="36" alt="PowerAutomate" /></a>
+</p>
 
 
 ### Badges
