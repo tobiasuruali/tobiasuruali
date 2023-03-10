@@ -1,7 +1,7 @@
 Hi 👋 My name is Tobias
 =======================
 
-Data Analyst
+Data Engineer
 ------------
 
 * 🌍  based in Switzerland
