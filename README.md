@@ -35,7 +35,7 @@ Data Engineer/Data Analyst
 
 <!-- <a href="https://github.com/tobiasuruali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasuruali&hide=html&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasuruali&layout=compact&bg_color=000000&text_color=ffffff&hide_border=true&hide=html&langs_count=7&&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasuruali&layout=compact&bg_color=000000&text_color=ffffff&hide_border=true&hide=html&langs_count=10&&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 <!-- <b>Top Repositories</b>
