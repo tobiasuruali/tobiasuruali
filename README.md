@@ -34,6 +34,8 @@ Data Engineer
 
 <a href="https://github.com/tobiasuruali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasuruali&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasuruali&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- <b>Top Repositories</b>
 
