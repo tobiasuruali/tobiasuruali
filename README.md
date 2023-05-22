@@ -1,10 +1,13 @@
-Hi 👋 my name is Tobias
-=======================
+# Hi there 👋, I'm Tobias!
 
-Data Engineer/Data Analyst
-------------
+## Data Engineer | Data Analyst
 
-* 🌍  based in Switzerland
+- 🌍 Based in Switzerland
+- 💻 Passionate about data and technology
+- 📈 Experienced in turning data into actionable insights
+
+Check out my work below!
+
 
 ### Skills
 
