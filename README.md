@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tobias!
 
-## Data Engineer | Data Analyst
+## Data Engineer | Researcher
 
 - 🌍 Based in Switzerland
 - 💻 Passionate about data and technology
