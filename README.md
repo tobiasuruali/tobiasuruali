@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tobias!
+# Hi, I'm Tobias!
 
 ## Data Engineer | Researcher
 
