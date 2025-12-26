@@ -1,10 +1,11 @@
 ## PhD Researcher (ETH Zurich) | Data Engineer | NLP & Agentic AI
 
-I build and study agentic AI systems at the intersection of AI engineering + human behavior (alignment, trust, delegation/override, experiments).
+I build and study LLM agentic systems at the intersection of AI engineering + human behavior (alignment, trust, delegation/override, experiments).
 Previously: 5+ years building production data/ML systems and pipelines (SBB, Siemens) + research in NLP for political communication.
 
-🧠 Interests: Agentic AI, Human–AI-Alignment, RL, Continual Learning, Causal Inference, NLP
-🛠️ I like shipping: prototypes, experiments, and tooling that works end-to-end
+- 🧠 Interests: Human–AI-Alignment, RL, Continual Learning, Agentic AI, Causal Inference, NLP  
+- 🛠️ I like shipping: prototypes, experiments, and tooling that works end-to-end
+
 ---
 
 ## Skills
@@ -29,4 +30,4 @@ Previously: 5+ years building production data/ML systems and pipelines (SBB, Sie
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasuruali&layout=compact&bg_color=000000&text_color=ffffff&hide_border=true&hide=html&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasuruali&layout=compact&bg_color=000000&text_color=ffffff&hide_border=true&hide=html&langs_count=10&&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
