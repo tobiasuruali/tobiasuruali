@@ -1,4 +1,4 @@
-## PhD Researcher (ETH Zurich) | Data Engineer | NLP & Agentic AI
+## PhD Researcher (ETH Zurich) | Data Engineer
 
 I build and study agentic systems at the intersection of engineering + human behavior (cognitive science, alignment, trust, delegation/override, experiments).
 Previously: 5+ years building production data/ML systems and pipelines (SBB, Siemens) + research in NLP for political communication.
