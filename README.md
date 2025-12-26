@@ -1,15 +1,17 @@
-# Hi, I'm Tobias!
+# Hi, I’m Tobias 👋
 
-## Data Engineer | Researcher
+**PhD Researcher (ETH Zurich) | Data Engineer | NLP & Agentic AI**
 
-- 🌍 Based in Switzerland
-- 💻 Passionate about data and technology
-- 📈 Experienced in turning data into actionable insights
+I build and study **agentic AI systems** at the intersection of **AI engineering + human behavior** (alignment, trust, delegation/override, experiments).  
+Previously: **5+ years** building production data/ML systems and pipelines (SBB, Siemens) + research in NLP for political communication.
 
-Check out my work below!
+- 🇨🇭 Zurich, Switzerland  
+- 🧠 Interests: Agentic AI, Human–AI-Alignment, RL, Continual Learning, Causal Inference, NLP  
+- 🛠️ I like shipping: prototypes, experiments, and tooling that works end-to-end
 
+---
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -27,37 +29,8 @@ Check out my work below!
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tobiasuruali/tobiasuruali/blob/f98d23c4957c3dd1eb76fbfb730c160df5a4d680/icons/Power_BI_Logo.svg" width="36" height="36" alt="PowerBI" /></a>
 </p>
 
+---
 
-### My GitHub Stats
+## Stats
 
-<!-- <b>My GitHub Stats</b> -->
-
-<!--
-<a href="http://www.github.com/tobiasuruali"><img src="https://github-readme-stats.vercel.app/api?username=tobiasuruali&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="tobiasuruali's GitHub stats" /></a>
--->
-
-<!-- <a href="https://github.com/tobiasuruali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasuruali&hide=html&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasuruali&layout=compact&bg_color=000000&text_color=ffffff&hide_border=true&hide=html&langs_count=10&&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)  
-
-
-<!-- <b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/tobiasuruali/DS_ToolKits_Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiasuruali&repo=DS_ToolKits_Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
- -->
-
-
-<!--
-**tobiasuruali/tobiasuruali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasuruali&layout=compact&bg_color=000000&text_color=ffffff&hide_border=true&hide=html&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
