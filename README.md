@@ -6,7 +6,7 @@ Previously: 5+ years building production data/ML systems and pipelines (SBB, Sie
 - 🧠 Interests: Human–AI-Alignment, RL, Continual Learning, Agentic AI, Causal Inference, NLP  
 - 🛠️ I like shipping: prototypes, experiments, and tooling that works end-to-end
 
----
+<!-- ---
 
 ## Skills
 
@@ -24,8 +24,7 @@ Previously: 5+ years building production data/ML systems and pipelines (SBB, Sie
 <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tobiasuruali/tobiasuruali/blob/main/icons/microsoft-power-automate.svg" width="36" height="36" alt="PowerAutomate" /></a>
 <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tobiasuruali/tobiasuruali/blob/226c0d46fb43624f1295a42a4c4c528e9d1a361a/icons/microsoft-power-apps.svg" width="36" height="36" alt="PowerApps" /></a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tobiasuruali/tobiasuruali/blob/f98d23c4957c3dd1eb76fbfb730c160df5a4d680/icons/Power_BI_Logo.svg" width="36" height="36" alt="PowerBI" /></a>
-</p>
-
+</p> -->
 ---
 
 ## Stats
