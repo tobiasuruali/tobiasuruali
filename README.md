@@ -1,14 +1,10 @@
-# Hi, I’m Tobias 👋
+## PhD Researcher (ETH Zurich) | Data Engineer | NLP & Agentic AI
 
-**PhD Researcher (ETH Zurich) | Data Engineer | NLP & Agentic AI**
+I build and study agentic AI systems at the intersection of AI engineering + human behavior (alignment, trust, delegation/override, experiments).
+Previously: 5+ years building production data/ML systems and pipelines (SBB, Siemens) + research in NLP for political communication.
 
-I build and study **agentic AI systems** at the intersection of **AI engineering + human behavior** (alignment, trust, delegation/override, experiments).  
-Previously: **5+ years** building production data/ML systems and pipelines (SBB, Siemens) + research in NLP for political communication.
-
-- 🇨🇭 Zurich, Switzerland  
-- 🧠 Interests: Agentic AI, Human–AI-Alignment, RL, Continual Learning, Causal Inference, NLP  
-- 🛠️ I like shipping: prototypes, experiments, and tooling that works end-to-end
-
+🧠 Interests: Agentic AI, Human–AI-Alignment, RL, Continual Learning, Causal Inference, NLP
+🛠️ I like shipping: prototypes, experiments, and tooling that works end-to-end
 ---
 
 ## Skills
