@@ -30,3 +30,4 @@ Previously: 5+ years building production data/ML systems and pipelines + researc
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasuruali&layout=compact&bg_color=000000&text_color=ffffff&hide_border=true&hide=html&langs_count=10&&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
