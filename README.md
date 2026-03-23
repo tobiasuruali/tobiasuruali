@@ -4,7 +4,9 @@ I build and study agentic systems / LLMs at the intersection of engineering + hu
 Previously: 5+ years building production data/ML systems and pipelines + research in NLP for political communication.
 
 - 🧠 Interests: Human–AI-Alignment, RL, Continual Learning, Agentic AI, Causal Inference, NLP  
+<!-- ---
 - 🛠️ I like shipping: prototypes, experiments, and tooling that works end-to-end
+ -->
 
 <!-- ---
 
